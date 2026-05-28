@@ -74,6 +74,6 @@ C# / .NET · FastAPI · Blazor
 <div align="center">
 
 <sub><i>"The only way to do great work is to love what you do."</i></sub>
-– Steve Jobs
+<sub>– Steve Jobs<sub>
 
 </div>

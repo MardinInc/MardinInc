@@ -1,6 +1,6 @@
 <div align="center">
 
-# Dinar
+# IT
 
 <sub>**MardinInc** · Computer Vision · Game Dev · ML</sub>
 
@@ -74,6 +74,7 @@ C# / .NET · FastAPI · Blazor
 <div align="center">
 
 <sub><i>"The only way to do great work is to love what you do."</i></sub>
+<div align="center">
 <sub>– Steve Jobs<sub>
-
+</div>
 </div>
